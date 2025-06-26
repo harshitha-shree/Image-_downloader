@@ -1,27 +1,23 @@
 🖼 IMAGE DOWNLOADER
 
-A simple Python-based Image Downloader application that downloads images from user-provided URLs. This project uses Tkinter for GUI and requests for downloading images directly to your system.
+A simple Python-based Image Downloader application that downloads images from user-provided URLs.And save to the given path.
 
 
 🚀 Features
-
-Simple and clean GUI
-
 Download images using URLs
 
-Save to custom directory
+copy link of the image that your inorder to download
 
-Input validation
+paste the url in the image URl
 
-Progress/status display
+give a file name with extension in save path
 
+inorder to save image in the file
 
 
 🛠 Tech Stack
 
 Python 3
-
-Tkinter (GUI)
 
 Requests (HTTP)
 
